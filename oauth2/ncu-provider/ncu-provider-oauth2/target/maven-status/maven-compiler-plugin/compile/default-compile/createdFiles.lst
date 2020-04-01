@@ -1,0 +1,5 @@
+com\ncu\springboot\provider\oauth2\service\impl\TbUserServiceImpl.class
+com\ncu\springboot\provider\oauth2\service\impl\TbPermissionServiceImpl.class
+com\ncu\springboot\dao\TbPermissionMapper.class
+com\ncu\springboot\dao\TbUserMapper.class
+com\ncu\springboot\App.class
